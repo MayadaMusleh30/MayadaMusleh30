@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MayadaMusleh30
 - 👀 I’m interested in creating things on the web
-- 🌱 I’m currently learning back-end development
+- 🌱 I’m currently learning advanced front-end techniques and languages
 - 💞️ I’m looking to collaborate on fun & creative projects that focus on accessibility for all
 - 📫 How to reach me: muslehmayada0@gmail.com
 
